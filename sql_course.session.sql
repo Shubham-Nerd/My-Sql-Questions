@@ -300,10 +300,6 @@ WHERE
      EXTRACT(Quarter From job_posted_date) = 1
 ORDER BY
     job_posted_date DESC;
-
-
-
-    
-
+   
 
 
